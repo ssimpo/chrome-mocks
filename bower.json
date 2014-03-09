@@ -1,0 +1,7 @@
+{
+  "name": "chrome-mocks",
+  "version": "0.0.1",
+  "main": "./chrome-mocks.js",
+  "homepage": "https://github.com/ssimpo/chrome-mocks",
+  "_source": "git@github.com:ssimpo/chrome-mocks.git"
+}
